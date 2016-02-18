@@ -1,1 +1,2 @@
 # James-Project
+Make easy :)
